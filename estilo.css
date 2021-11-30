@@ -1,0 +1,35 @@
+body {
+  background: black;
+  font-size: 1.15rem;
+  line-height: 1.2em;
+  margin: 0;
+}
+
+p {
+  margin-bottom: 1.6em;
+}
+
+.container {
+  width: 85%;
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+.header {
+  left: 0;
+  top: 0;
+}
+
+.footer {
+  background: grey;
+  padding: 4rem 0;
+  text-align: center;
+  color: black;
+  margin-top: 6rem;
+}
+
+@@media only screen and (max-width: 767px) {
+
+
+  
+}
